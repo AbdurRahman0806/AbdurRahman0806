@@ -36,7 +36,7 @@ I'm a **Front-End Web Developer** with a strong foundation in **HTML**, **CSS**,
 Here are some projects I’ve worked on:
 
   <p align="center" style="background-color:#E1F5FE; padding: 15px; border-radius: 10px;">
-    <a href="https://abdur-rahmansportfolio.netlify.app/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP3y2YuTNlHFCJ00nuputMwtPN_lVoh0ge_Q&s" width="100px"></a>
+    <a href="https://abdur-rahmansportfolio.netlify.app/" target="_main"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP3y2YuTNlHFCJ00nuputMwtPN_lVoh0ge_Q&s" width="100px"></a>
     </p>
 
 
@@ -45,7 +45,7 @@ Here are some projects I’ve worked on:
 ### 📫 Connect with Me
 
 <p align="center" style="background-color:#E1F5FE; padding: 15px; border-radius: 10px;">
-    <a href="www.linkedin.com/in/abdurrahman3008"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="www.linkedin.com/in/abdurrahman3008" target="_main"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
