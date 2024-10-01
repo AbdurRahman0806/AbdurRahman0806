@@ -45,7 +45,7 @@ Here are some projects I’ve worked on:
 ### 📫 Connect with Me
 
 <p align="center" style="background-color:#E1F5FE; padding: 15px; border-radius: 10px;">
-    <a href="www.linkedin.com/in/abdurrahman3008"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/abdurrahman3008/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
