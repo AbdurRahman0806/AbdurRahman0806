@@ -36,7 +36,7 @@ I'm a **Front-End Web Developer** with a strong foundation in **HTML**, **CSS**,
 Here are some projects I’ve worked on:
 
   <p align="center" style="background-color:#E1F5FE; padding: 15px; border-radius: 10px;">
-    <a href="https://abdurrahmansportfolio.netlify.app/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP3y2YuTNlHFCJ00nuputMwtPN_lVoh0ge_Q&s" width="100px"></a>
+    <a href="https://abdur-rahmansportfolio.netlify.app/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP3y2YuTNlHFCJ00nuputMwtPN_lVoh0ge_Q&s" width="100px"></a>
     </p>
 
 
